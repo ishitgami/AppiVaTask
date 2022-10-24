@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "104679817982",
+    "project_id": "appivatask",
+    "storage_bucket": "appivatask.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104679817982:android:d3ded759b5997c85831baf",
+        "android_client_info": {
+          "package_name": "com.example.appivatask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104679817982-sdvbc2rllcv12sb9u1bc58q2a95hm794.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJxTJ7EY4JKUTsGFmu9wkEEuojT9Ao91M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104679817982-sdvbc2rllcv12sb9u1bc58q2a95hm794.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
